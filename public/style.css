@@ -40,7 +40,18 @@ button {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+    margin-right: 10px;
 }
+.afegir{
+    padding: 10px 15px;
+    background-color: #eaaef7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
 
 button:hover {
     background-color: #dda5df;
